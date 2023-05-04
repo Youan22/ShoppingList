@@ -99,6 +99,7 @@ public class ShoppingList {
             } else {
                 System.out.println("Invalid command. Please try again.");
                 scanner.close();
+    
             }
         }
     }
