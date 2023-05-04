@@ -23,5 +23,5 @@ Java 8
 
 # Useful Websites
 List of websites that you found helpful in this project
-* BeginnersBook https://beginnersbook.com/2017/09/java-program-to-add-two-numbers/
+* Beginners Book https://beginnersbook.com/2017/09/java-program-to-add-two-numbers/
 * [Web Site Name](http://url.link.goes.here)
