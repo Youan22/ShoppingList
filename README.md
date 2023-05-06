@@ -10,16 +10,15 @@ to a fixed amount.
 I planned creating a Java software that stores and manages a list of strings (items) for a shopping list using arrays list. The program will set a maximum spending amount and keep track of items. 
 It will attempts to assist consumers ot it users in creating a formal shopping list to help save money and be in charge or control of buying habit.  
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+# Software Demo Video
+https://youtu.be/5JIfnZdRSBg
 
 # Development Environment
-Visual Studio Code / Eclipse
-Git / GitHub
+* Visual Studio Code / Eclipse
+* Git / GitHub
 
 The programming language that I used in this project
-Java 8 
+* Java 8 
 
 # Useful Websites
 List of websites that you found helpful in this project
